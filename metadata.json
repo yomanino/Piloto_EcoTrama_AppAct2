@@ -1,0 +1,8 @@
+{
+  "name": "Copy of EcoRed Comunal EcoTrama App",
+  "description": "Una plataforma comunitaria para la gestión ambiental, intercambio de recursos sostenibles y fortalecimiento del tejido social ecológico.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ]
+}
